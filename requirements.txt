@@ -1,0 +1,4 @@
+groq
+mysql-connector-python
+python-dotenv
+tabulate
